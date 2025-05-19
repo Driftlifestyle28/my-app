@@ -1,5 +1,5 @@
 export default function page(){
     return(
-        <h1>About Us</h1>
+        <h1>This is my test TEXT</h1>
     )
 }
